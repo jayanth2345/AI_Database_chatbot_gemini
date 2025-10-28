@@ -1,0 +1,6 @@
+GEMINI_API_KEY = "your gemini api key"
+DB_USER = "postgres"
+DB_PASS = "your password"
+DB_HOST = "localhost"
+DB_PORT = 5433
+DB_NAME = "the name of database that you wanna use"
